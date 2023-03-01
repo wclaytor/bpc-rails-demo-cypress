@@ -1,0 +1,23 @@
+{
+  "name": "bpc-rails-demo-cypress",
+  "version": "1.0.0",
+  "description": "Test automation for the bpc-rails-demo project using Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wclaytor/bpc-rails-demo-cypress.git"
+  },
+  "author": "bpc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wclaytor/bpc-rails-demo-cypress/issues"
+  },
+  "homepage": "https://github.com/wclaytor/bpc-rails-demo-cypress#readme",
+  "devDependencies": {
+    "@cypress/xpath": "^2.0.3",
+    "cypress": "^12.7.0"
+  }
+}

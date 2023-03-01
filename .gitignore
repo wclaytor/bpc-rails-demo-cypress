@@ -1,0 +1,37 @@
+# node
+node_modules/
+npm-debug.log
+nohup.out
+
+# selenium
+selenium-debug.log
+selenium-server.log
+chromedriver.log
+geckodriver.log
+safaridriver.log
+
+# mac
+.DS_Store
+.com.apple.timemachine.supported
+
+# exclued selenium.jar from GitHub it's 21MB!
+nightwatch
+nightwatch/selenium.jar
+
+# exclude chromedriver as its 12MB and changes frequently!
+nightwatch/chromedriver
+
+# results
+reports
+screenshots
+tests_output
+videos
+
+# environment variables
+.env
+
+# log files
+logs
+
+# parameters
+parameters
