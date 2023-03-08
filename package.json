@@ -4,7 +4,7 @@
   "description": "Test automation for the bpc-rails-demo project using Cypress",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "cypress open"
   },
   "repository": {
     "type": "git",
